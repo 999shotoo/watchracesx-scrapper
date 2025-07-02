@@ -185,8 +185,34 @@ async function scrapeRaces() {
                 if (customserver) streamlinks.customserver = customserver;
                 Object.assign(streamlinks, extraStreams);
 
+                // Merge with existing race if present
+                const existingRace = existingRaces.find(r => r.slug === slug);
+                if (existingRace && existingRace.streamlinks) {
+                    // For server1/server2/customserver, prefer new if present, else old
+                    ['server1', 'server2', 'customserver'].forEach(key => {
+                        if (!streamlinks[key] && existingRace.streamlinks[key]) {
+                            streamlinks[key] = existingRace.streamlinks[key];
+                        }
+                    });
+                    // For numbered streams, add new first, then any old not present
+                    const newStreamKeys = Object.keys(extraStreams);
+                    const oldStreamKeys = Object.keys(existingRace.streamlinks).filter(k => /^stream\d+$/.test(k));
+                    let idx = newStreamKeys.length + 3; // stream3, stream4, ...
+                    for (const k of oldStreamKeys) {
+                        if (!streamlinks[k]) {
+                            streamlinks[`stream${idx}`] = existingRace.streamlinks[k];
+                            idx++;
+                        }
+                    }
+                }
+
                 races.push({
-                    id, title, link, thumbnail, slug, thumbnailslug,
+                    id: existingRace ? existingRace.id : id,
+                    title,
+                    link,
+                    thumbnail,
+                    slug,
+                    thumbnailslug,
                     streamlinks
                 });
                 existingSlugs.add(slug);
