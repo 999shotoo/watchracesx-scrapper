@@ -12924,5 +12924,18 @@
       "customserver": "https://filemoon.sx/e/c4wc88f7tc0o",
       "stream3": "https://spcdn.xyz/player/embed.php?data=6504909ab81edf8086a8ec6982a1099a"
     }
+  },
+  {
+    "id": "aa89f49e-5845-42b2-8f41-63a32cbc92a6",
+    "title": "MotoGP Czech Grand Prix 2025 Full Race Replay - July 20, 2025",
+    "link": "https://fullraces.com/motogp-czech-grand-prix-2025-full-race-replay-july-20-2025",
+    "thumbnail": "https://fullraces.com/_pu/11/17666279.png",
+    "slug": "motogp-czech-grand-prix-2025-full-race-replay-july-20-2025",
+    "thumbnailslug": "/_pu/11/17666279.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/7zq63p3cngr8/motogp.2025.czech.1080p.web.h264-verum.mkv",
+      "customserver": "https://filemoon.sx/e/ipe9q2rzk136",
+      "stream3": "https://spcdn.xyz/player/embed.php?data=0c0bf917c7942b5a08df71f9da626f97"
+    }
   }
 ]
