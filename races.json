@@ -12937,5 +12937,30 @@
       "customserver": "https://filemoon.sx/e/ipe9q2rzk136",
       "stream3": "https://spcdn.xyz/player/embed.php?data=0c0bf917c7942b5a08df71f9da626f97"
     }
+  },
+  {
+    "id": "556da096-753c-4ba2-a8ef-8d9a4946dd7a",
+    "title": "NASCAR Autotrader EchoPark Automotive 400 Full Race Replay - July 20, 2025",
+    "link": "https://fullraces.com/nascar-autotrader-echopark-automotive-400-full-race-replay-july-20-2025",
+    "thumbnail": "https://fullraces.com/_pu/11/33458946.png",
+    "slug": "nascar-autotrader-echopark-automotive-400-full-race-replay-july-20-2025",
+    "thumbnailslug": "/_pu/11/33458946.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/foqlx25nkw6g/NASCAR.Cup.Series.2025.R21.Dover.Race.IPTV.1080p.30fps.EN.mkv",
+      "customserver": "https://filemoon.sx/e/rvp03t67wxts"
+    }
+  },
+  {
+    "id": "b30a56d5-fb6a-431d-b3a0-b3c8045751bb",
+    "title": "IndyCar Ontario Honda Dealers Indy Toronto Full Race Replay July 20, 2025",
+    "link": "https://fullraces.com/indycar-ontario-honda-dealers-indy-toronto-full-race-replay-july-20-2025",
+    "thumbnail": "https://fullraces.com/_pu/11/57375235.png",
+    "slug": "indycar-ontario-honda-dealers-indy-toronto-full-race-replay-july-20-2025",
+    "thumbnailslug": "/_pu/11/57375235.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/h8rjeajgd8qd/04.IndyCar.2025.Round.13.Ontario.Honda.Dealers.Indy.Toronto.Race.Sky.Sports.F1.1080P.mkv",
+      "server2": "https://luluvdoo.com/e/8uq55qin4hqd",
+      "customserver": "https://filemoon.sx/e/5t9fqoe0180r"
+    }
   }
 ]
