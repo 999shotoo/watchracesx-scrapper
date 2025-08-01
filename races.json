@@ -13105,5 +13105,18 @@
       "customserver": "https://filemoon.sx/e/t9uy0hlokni0",
       "stream3": "https://spcdn.xyz/player/embed.php?data=9a83eabfb7fa303a2d85dbc6f37483e5"
     }
+  },
+  {
+    "id": "6a15b21c-e9bb-4d0c-80ff-d2f87f8b8ea7",
+    "title": "Formula 3 Hungary Grand Prix Full Race Replay 2025 F3 Championship",
+    "link": "https://fullraces.com/formula-3-hungary-grand-prix-full-race-replay-2025-f3-championship",
+    "thumbnail": "https://fullraces.com/_pu/11/30234537.png",
+    "slug": "formula-3-hungary-grand-prix-full-race-replay-2025-f3-championship",
+    "thumbnailslug": "/_pu/11/30234537.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/pi31l42l0k9j/01.Formula.3.2025.R09.Hungarian.Practice.SkyF1HD.1080P.mkv",
+      "customserver": "https://filemoon.sx/e/4ujc7lab73mm",
+      "stream3": "https://spcdn.xyz/player/embed.php?data=e19099504769f3f7eb7e2f8b933db898"
+    }
   }
 ]
