@@ -13270,5 +13270,41 @@
       "server1": "https://filemoon.to/e/4nej6xxyrmcu/02.NASCAR.Cup.Series.2025.R25.Cook.Out.400.Race.USA.1080P.mkv",
       "customserver": "https://filemoon.sx/e/im1o10c5g1bv"
     }
+  },
+  {
+    "id": "7a864cfc-914e-41a8-badd-c8961088ee82",
+    "title": "IndyCar Snap-on Milwaukee Mile 250 Full Race Replay August 24, 2025",
+    "link": "https://fullraces.com/indycar-snap-on-milwaukee-mile-250-full-race-replay-august-24-2025",
+    "thumbnail": "https://fullraces.com/_pu/11/54420759.png",
+    "slug": "indycar-snap-on-milwaukee-mile-250-full-race-replay-august-24-2025",
+    "thumbnailslug": "/_pu/11/54420759.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/6lc73a5e5z6b/03.IndyCar.2025.Round.16.Snap-on.Milwaukee.Mile.250.Race.Sky.Sports.F1.1080P.mkv",
+      "customserver": "https://filemoon.sx/e/nfjk1szrd0vz"
+    }
+  },
+  {
+    "id": "ec62f9d6-9ac1-44b9-ad9e-9ff6a8e45b99",
+    "title": "NASCAR Coke Zero Sugar 400 Daytona Full Race Replay - August 23, 2025",
+    "link": "https://fullraces.com/nascar-coke-zero-sugar-400-daytona-full-race-replay-august-23-2025",
+    "thumbnail": "https://fullraces.com/_pu/11/08960423.png",
+    "slug": "nascar-coke-zero-sugar-400-daytona-full-race-replay-august-23-2025",
+    "thumbnailslug": "/_pu/11/08960423.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/nbc6fqsgbkot/02.NASCAR.Cup.Series.2025.R26.Coke.Zero.Sugar.400.Race.NBC.1080P.mkv",
+      "customserver": "https://filemoon.sx/e/ryqpnz2c3m89"
+    }
+  },
+  {
+    "id": "51cb2cde-a60d-47b8-a19b-bf464b101775",
+    "title": "MotoGP Hungary GP 2025 Full Race Replay - August 24, 2025",
+    "link": "https://fullraces.com/motogp-hungary-gp-2025-full-race-replay-august-24-2025",
+    "thumbnail": "https://fullraces.com/_pu/11/74292201.png",
+    "slug": "motogp-hungary-gp-2025-full-race-replay-august-24-2025",
+    "thumbnailslug": "/_pu/11/74292201.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/xv230w9h2mil/MotoGP.2025.Round14.Hungary.Race.WEB-DL.1080p.h264.English-MWR.mkv",
+      "customserver": "https://filemoon.sx/e/bq2v2f0e4lyf"
+    }
   }
 ]
