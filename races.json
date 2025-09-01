@@ -13397,5 +13397,29 @@
       "customserver": "https://filemoon.sx/e/p7lf9or28it5",
       "stream3": "https://spcdn.xyz/player/embed.php?data=fac9f8fdf66019365db95e4c1edef2bc"
     }
+  },
+  {
+    "id": "4a43a0ee-70d7-41d0-bbd3-e59dbce20dc5",
+    "title": "NASCAR Cook Out Southern 500 Full Race Replay - August 31, 2025",
+    "link": "https://fullraces.com/nascar-cook-out-southern-500-full-race-replay-august-31-2025",
+    "thumbnail": "https://fullraces.com/_pu/12/74061593.png",
+    "slug": "nascar-cook-out-southern-500-full-race-replay-august-31-2025",
+    "thumbnailslug": "/_pu/12/74061593.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/0mb9b9clwsjx/NASCAR.Cup.Series.2025.R27.Darlington.IPTV.1080p.50fps.EN.mkv",
+      "customserver": "https://filemoon.sx/e/yyyslu25o06s"
+    }
+  },
+  {
+    "id": "f2a987ed-0fb1-4d1e-9f65-266b792d4b5a",
+    "title": "IndyCar Borchetta Bourbon Music City Grand Prix Full Race Replay August 31, 2025",
+    "link": "https://fullraces.com/indycar-borchetta-bourbon-music-city-grand-prix-full-race-replay-august-31-2025",
+    "thumbnail": "https://fullraces.com/_pu/12/96891294.png",
+    "slug": "indycar-borchetta-bourbon-music-city-grand-prix-full-race-replay-august-31-2025",
+    "thumbnailslug": "/_pu/12/96891294.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/b9rrui4xrlkq/04.IndyCar.2025.R17.Borchetta.Bourbon.Music.City.Grand.Prix.Race.FOX.720P.mkv",
+      "customserver": "https://filemoon.sx/e/pq7pgop38lb8"
+    }
   }
 ]
