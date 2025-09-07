@@ -13510,5 +13510,29 @@
     "streamlinks": {
       "stream3": "https://spcdn.xyz/player/embed.php?data=ba4849411c8bbdd386150e5e32204198"
     }
+  },
+  {
+    "id": "293805ad-a3ea-4d51-9977-b7990a92c877",
+    "title": "RACE - F1 2025 - Italian Grand Prix Full Race Replay September 7, 2025 Formula 1",
+    "link": "https://fullraces.com/race-f1-2025-italian-grand-prix-full-race-replay-september-7-2025-formula-1",
+    "thumbnail": "https://fullraces.com/_pu/12/45982134.png",
+    "slug": "race-f1-2025-italian-grand-prix-full-race-replay-september-7-2025-formula-1",
+    "thumbnailslug": "/_pu/12/45982134.png",
+    "streamlinks": {
+      "stream3": "https://spcdn.xyz/player/embed.php?data=78bbb28f2ca60a5b9e82650b8b297cd4"
+    }
+  },
+  {
+    "id": "2912a5bb-2893-4913-a774-26db35c1b164",
+    "title": "MotoGP Catalan GP 2025 Full Race Replay - September 7, 2025",
+    "link": "https://fullraces.com/motogp-catalan-gp-2025-full-race-replay-september-7-2025",
+    "thumbnail": "https://fullraces.com/_pu/12/23074789.png",
+    "slug": "motogp-catalan-gp-2025-full-race-replay-september-7-2025",
+    "thumbnailslug": "/_pu/12/23074789.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/5qav6s8vwyhq/03.Race.MotoGP.mp4",
+      "customserver": "https://filemoon.sx/e/tew08sgkljai",
+      "stream3": "https://spcdn.xyz/player/embed.php?data=5f928e920ac121d34a2aeae8c87953d4"
+    }
   }
 ]
