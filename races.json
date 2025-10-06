@@ -13785,5 +13785,17 @@
     "streamlinks": {
       "stream3": "https://spcdn.xyz/player/embed.php?data=878cbc9ed11d6c167ef0065805a85392"
     }
+  },
+  {
+    "id": "8d1ac3f4-a6b3-439d-ad88-464166c1cdfc",
+    "title": "NASCAR Bank of America Roval 400 Full Race Replay - October 5, 2025",
+    "link": "https://fullraces.com/nascar-bank-of-america-roval-400-full-race-replay-october-5-2025",
+    "thumbnail": "https://fullraces.com/_pu/12/15839520.png",
+    "slug": "nascar-bank-of-america-roval-400-full-race-replay-october-5-2025",
+    "thumbnailslug": "/_pu/12/15839520.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/h62hs05td2dv/02.NASCAR.Cup.Series.2025.R32.Bank.of.America.Roval.400.Race.USA.1080P.mkv",
+      "customserver": "https://filemoon.sx/e/4ys89s0yrdh2"
+    }
   }
 ]
