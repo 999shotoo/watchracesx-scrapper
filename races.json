@@ -13809,5 +13809,44 @@
       "server1": "https://filemoon.to/e/a2dwhgszbwi7/02.NASCAR.Cup.Series.2025.R33.South.Point.400.Race.USA.1080P.mkv",
       "customserver": "https://filemoon.sx/e/3p6kp1m24m9o"
     }
+  },
+  {
+    "id": "71280e07-7ad8-4090-bb78-5d9a789f8d7d",
+    "title": "Sprint Qualifying - F1 2025 - United States Grand Prix Full Race Replay October 17, 2025 Formula 1",
+    "link": "https://fullraces.com/sprint-qualifying-f1-2025-united-states-grand-prix-full-race-replay-october-17-2025-formula-1",
+    "thumbnail": "https://fullraces.com/_pu/12/22642014.png",
+    "slug": "sprint-qualifying-f1-2025-united-states-grand-prix-full-race-replay-october-17-2025-formula-1",
+    "thumbnailslug": "/_pu/12/22642014.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/wqn4j1h0h708/FSprint_Qualifying.mp4",
+      "customserver": "https://filemoon.sx/e/cw63eahc4bz0",
+      "stream3": "https://spcdn.xyz/player/embed.php?data=239786e7cc274460b889c47f6dcdc2f3"
+    }
+  },
+  {
+    "id": "aecb3a2d-28e2-4973-a2e5-df9699e7c81b",
+    "title": "1st Practice - F1 2025 - United States Grand Prix Full Race Replay October 17, 2025 Formula 1",
+    "link": "https://fullraces.com/1st-practice-f1-2025-united-states-grand-prix-full-race-replay-october-17-2025-formula-1",
+    "thumbnail": "https://fullraces.com/_pu/12/55379997.png",
+    "slug": "1st-practice-f1-2025-united-states-grand-prix-full-race-replay-october-17-2025-formula-1",
+    "thumbnailslug": "/_pu/12/55379997.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/8gtijh09ilp3/F1Round19USAPractice1.mp4",
+      "customserver": "https://filemoon.sx/e/0e687tz58rzr",
+      "stream3": "https://spcdn.xyz/player/embed.php?data=e9f54fe5fc20785719006f84f1920703"
+    }
+  },
+  {
+    "id": "4f516c99-a68a-4907-869e-fa34dc5cf287",
+    "title": "Drivers Press Conference - F1 2025 - United States Grand Prix Full Replay October 16, 2025 Formula 1",
+    "link": "https://fullraces.com/drivers-press-conference-f1-2025-united-states-grand-prix-full-replay-october-16-2025-formula-1",
+    "thumbnail": "https://fullraces.com/_pu/12/89121816.png",
+    "slug": "drivers-press-conference-f1-2025-united-states-grand-prix-full-replay-october-16-2025-formula-1",
+    "thumbnailslug": "/_pu/12/89121816.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/vkhc7cu02qon/01.F1.2025.R19.United.States.Grand.Prix.Drivers.Press.Conference.SkyF1HD.1080P.mkv",
+      "customserver": "https://filemoon.sx/e/xo9zibk8kspj",
+      "stream3": "https://racereplay.net/f1links/videoplayback.php?id=xfkv2XjLof8e4g0VxQhET7KVEGBp5O4L0oarCn2Acc2QEMM6jAHWeUYbv7q09tADwEsD7wy3aueT7DVybEHHgU/4amZ7dCiuf23I2Oa4LecJ2M4Xyw0Y0/kZrYssv85RvcDsUXcTc9FXoyHRdWTLNZm4/ufD2FIy6d8q26ZOa31T9nzVwj00KzBzNyVHCuDRjE8fUuwsvCOFRns9CNBzT5sMLXw2Cwd7R8s4zNE6pq4Z1DnTSXa86mLqfELrfv8RNpD0zRJeSRaoMXLDpDB75kYitVLu+x3N2lN8gjXEUFDl/g6NDq8KBXR3S1vOTcc9YtvH+LDqDS/04I8VbQM3Q+5a0QsbwgIxWJY+CeUH1RJSiQJRmTDlGd2VeYwctOAD3Nt8pfzMHHQlp/bTkvI4AIL5nI8ECbbCNvrUxoKfnT1c3lShF8NbUkvYYyexx1rj1itFcEqL/dJKclUBBIrqAw=="
+    }
   }
 ]
