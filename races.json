@@ -13874,5 +13874,18 @@
       "customserver": "https://filemoon.sx/e/6aikqo2gthou",
       "stream3": "https://spcdn.xyz/player/embed.php?data=239786e7cc274460b889c47f6dcdc2f3"
     }
+  },
+  {
+    "id": "8ffae3fd-f1b6-45bb-a4aa-1a2f26462f4a",
+    "title": "MotoGP Australian GP 2025 Full Race Replay - October 19, 2025",
+    "link": "https://fullraces.com/motogp-australian-gp-2025-full-race-replay-october-19-2025",
+    "thumbnail": "https://fullraces.com/_pu/12/31937620.png",
+    "slug": "motogp-australian-gp-2025-full-race-replay-october-19-2025",
+    "thumbnailslug": "/_pu/12/31937620.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/hrwu9pz1yht4/MotoGP.2025.Round19.Australia.Race.WEB-DL.1080p.h264.English-MWR.mkv",
+      "customserver": "https://filemoon.sx/e/x44ez05eg3nm",
+      "stream3": "https://spcdn.xyz/player/embed.php?data=fc8ce6292e51ac8214f544324c56d10d"
+    }
   }
 ]
