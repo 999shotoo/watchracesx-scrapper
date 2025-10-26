@@ -13938,5 +13938,31 @@
       "customserver": "https://filemoon.sx/e/3b06s3u0yury",
       "stream3": "https://spcdn.xyz/player/embed.php?data=e464656edca5e58850f8cec98cbb979b"
     }
+  },
+  {
+    "id": "2684dc28-4e44-4689-8d97-c6b1ec35dcdf",
+    "title": "Qualifying - F1 2025 - Mexico Grand Prix Full Race Replay October 25, 2025 Formula 1",
+    "link": "https://fullraces.com/qualifying-f1-2025-mexico-grand-prix-full-race-replay-october-25-2025-formula-1",
+    "thumbnail": "https://fullraces.com/_pu/12/38322875.png",
+    "slug": "qualifying-f1-2025-mexico-grand-prix-full-race-replay-october-25-2025-formula-1",
+    "thumbnailslug": "/_pu/12/38322875.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/ue49mf9kwwd5/Formula1.2025.Round20.Mexico.Qualifying.SKY.F1TV.WEB-DL.1080p.h264.English-MWR.mkv",
+      "customserver": "https://filemoon.sx/e/6io7gjcxks2i",
+      "stream3": "https://spcdn.xyz/player/embed.php?data=d1aee41b5b02c5bbb3f50a4a5a104984"
+    }
+  },
+  {
+    "id": "0d5c4943-6998-45ef-8339-eac8ee91115b",
+    "title": "3rd Practice - F1 2025 - Mexico Grand Prix Full Race Replay October 25, 2025 Formula 1",
+    "link": "https://fullraces.com/3rd-practice-f1-2025-mexico-grand-prix-full-race-replay-october-25-2025-formula-1",
+    "thumbnail": "https://fullraces.com/_pu/12/78948676.png",
+    "slug": "3rd-practice-f1-2025-mexico-grand-prix-full-race-replay-october-25-2025-formula-1",
+    "thumbnailslug": "/_pu/12/78948676.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/sky55vihssk2/07.F1.2025.R20.Mexican.Grand.Prix.Free.Practice.Three.SkyF1HD.1080P.mkv",
+      "customserver": "https://filemoon.sx/e/q46jlltk6jld",
+      "stream3": "https://spcdn.xyz/player/embed.php?data=de269cef100e0138418227baba3f7e16"
+    }
   }
 ]
