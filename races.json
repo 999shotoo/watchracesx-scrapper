@@ -13964,5 +13964,31 @@
       "customserver": "https://filemoon.sx/e/q46jlltk6jld",
       "stream3": "https://spcdn.xyz/player/embed.php?data=de269cef100e0138418227baba3f7e16"
     }
+  },
+  {
+    "id": "f05dc369-98f7-4bc3-91ec-fe9e3c64dc35",
+    "title": "RACE - F1 2025 - Mexico Grand Prix Full Race Replay October 26, 2025 Formula 1",
+    "link": "https://fullraces.com/race-f1-2025-mexico-grand-prix-full-race-replay-october-26-2025-formula1",
+    "thumbnail": "https://fullraces.com/_pu/12/70347606.png",
+    "slug": "race-f1-2025-mexico-grand-prix-full-race-replay-october-26-2025-formula1",
+    "thumbnailslug": "/_pu/12/70347606.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/a8i0pvkmvy8p/Formula1.2025.Round20.Mexico.Race.SKY.F1TV.WEB-DL.1080p.h264.English-MWR.mkv",
+      "customserver": "https://filemoon.sx/e/km4qirm0mbvm",
+      "stream3": "https://spcdn.xyz/player/embed.php?data=a03fec24df877cc65c037673397ad5c0"
+    }
+  },
+  {
+    "id": "94f40d86-fa5f-40ae-a9f3-c6a2cc81515e",
+    "title": "MotoGP Malaysian GP 2025 Full Race Replay - October 26, 2025",
+    "link": "https://fullraces.com/motogp-malaysian-gp-2025-full-race-replay-october-26-2025",
+    "thumbnail": "https://fullraces.com/_pu/12/01134014.png",
+    "slug": "motogp-malaysian-gp-2025-full-race-replay-october-26-2025",
+    "thumbnailslug": "/_pu/12/01134014.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/ot1c7nkeq9ob/MotoGP.2025.Round20.Malaysia.Race.WEB-DL.1080p.h264.English-MWR.mkv",
+      "customserver": "https://filemoon.sx/e/ry6pn28w17n8",
+      "stream3": "https://spcdn.xyz/player/embed.php?data=12d16adf4a9355513f9d574b76087a08"
+    }
   }
 ]
