@@ -13990,5 +13990,17 @@
       "customserver": "https://filemoon.sx/e/ry6pn28w17n8",
       "stream3": "https://spcdn.xyz/player/embed.php?data=12d16adf4a9355513f9d574b76087a08"
     }
+  },
+  {
+    "id": "381f653d-fd77-4c4b-964a-4df429bd66a6",
+    "title": "NASCAR Xfinity 500 Martinsville Full Race Replay - October 26, 2025",
+    "link": "https://fullraces.com/nascar-xfinity-500-martinsville-full-race-replay-october-26-2025",
+    "thumbnail": "https://fullraces.com/_pu/12/29540273.png",
+    "slug": "nascar-xfinity-500-martinsville-full-race-replay-october-26-2025",
+    "thumbnailslug": "/_pu/12/29540273.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/owpfxhqqaz46/02.NASCAR.Cup.Series.2025.R35.Xfinity.500.Race.NBC.1080P.mkv",
+      "customserver": "https://filemoon.sx/e/zo5kvmfp38u1"
+    }
   }
 ]
