@@ -14085,5 +14085,18 @@
     "slug": "race-f1-2025-sao-paulo-grand-prix-full-race-replay-november-9-2025-formula-1",
     "thumbnailslug": "/_pu/12/67414242.png",
     "streamlinks": {}
+  },
+  {
+    "id": "7cb869a5-0f3b-41dd-b5bc-c85ca44c7ff6",
+    "title": "MotoGP Spain Valencia GP 2025 Full Race Replay - November 16, 2025",
+    "link": "https://fullraces.com/motogp-spain-valencia-gp-2025-full-race-replay-november-16-2025",
+    "thumbnail": "https://fullraces.com/_pu/12/94900826.png",
+    "slug": "motogp-spain-valencia-gp-2025-full-race-replay-november-16-2025",
+    "thumbnailslug": "/_pu/12/94900826.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/snwndtedfc09/MotoGP.2025.Round22.Spain.Valencia.Race.WEB-DL.1080p.h264.English-MWR.mkv",
+      "customserver": "https://filemoon.sx/e/roj5qbo01r1o",
+      "stream3": "https://spcdn.xyz/player/embed.php?data=8897600d344dd1febe525fd4f7a4e0c3"
+    }
   }
 ]
