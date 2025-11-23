@@ -14189,5 +14189,18 @@
       "customserver": "https://filemoon.sx/e/cd2hlcpwb18s",
       "stream3": "https://spcdn.xyz/player/embed.php?data=cb13de2e50ac695aad8fbfe59e1ba869"
     }
+  },
+  {
+    "id": "c8e177c9-e68d-4218-9ba6-8f272fa482d5",
+    "title": "RACE - F1 2025 - Las Vegas Grand Prix Full Race Replay November 22, 2025 Formula 1",
+    "link": "https://fullraces.com/race-f1-2025-las-vegas-grand-prix-full-race-replay-november-22-2025-formula-1",
+    "thumbnail": "https://fullraces.com/_pu/12/26009440.png",
+    "slug": "race-f1-2025-las-vegas-grand-prix-full-race-replay-november-22-2025-formula-1",
+    "thumbnailslug": "/_pu/12/26009440.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/2qpkio0qkaoj/Formula1.2025.Round22.USA.Las.Vegas.Race.SKY.F1TV.WEB-DL.1080p.h264.English-MWR.mkv",
+      "customserver": "https://filemoon.sx/e/uf153dw8822c",
+      "stream3": "https://spcdn.xyz/player/embed.php?data=fc60305c9e5e6f19c6be173b9dd7b448"
+    }
   }
 ]
