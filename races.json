@@ -14280,5 +14280,16 @@
       "customserver": "https://filemoon.sx/e/5p2dz70dff2q",
       "stream3": "https://spcdn.xyz/player/embed.php?data=c728615c8a166f73ec481b345cac1e84"
     }
+  },
+  {
+    "id": "ae230491-ad12-4583-908a-f5a8f36dec71",
+    "title": "RACE - F1 2025 - Qatar Grand Prix Full Race Replay November 30, 2025 Formula 1",
+    "link": "https://fullraces.com/race-f1-2025-qatar-grand-prix-full-race-replay-november-30-2025-formula-1",
+    "thumbnail": "https://fullraces.com/_pu/12/09131979.png",
+    "slug": "race-f1-2025-qatar-grand-prix-full-race-replay-november-30-2025-formula-1",
+    "thumbnailslug": "/_pu/12/09131979.png",
+    "streamlinks": {
+      "stream3": "https://spcdn.xyz/player/embed.php?data=e7d81336a1915eff69e6eb7f32cf1e77"
+    }
   }
 ]
