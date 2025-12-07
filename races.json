@@ -14382,5 +14382,18 @@
       "customserver": "https://filemoon.sx/e/nk6q8cb6jypp",
       "stream3": "https://spcdn.xyz/player/embed.php?data=67a3c1520c0b54c1f3be3fcfb4f1dca0"
     }
+  },
+  {
+    "id": "cdf103be-b530-44e7-abd7-19e165876d99",
+    "title": "RACE - F1 2025 - Abu Dhabi Grand Prix Full Race Replay December 7, 2025 Formula 1",
+    "link": "https://fullraces.com/race-f1-2025-abu-dhabi-grand-prix-full-race-replay-december-7-2025-formula-1",
+    "thumbnail": "https://fullraces.com/_pu/12/72640242.png",
+    "slug": "race-f1-2025-abu-dhabi-grand-prix-full-race-replay-december-7-2025-formula-1",
+    "thumbnailslug": "/_pu/12/72640242.png",
+    "streamlinks": {
+      "server1": "https://filemoon.to/e/8bkxpgt6r1x7/Formula1.2025.Round24.Abu.Dhabi.Race.SKY.F1TV.WEB-DL.1080p.h264.English-MWR.mkv",
+      "customserver": "https://filemoon.sx/e/cz22ly546965",
+      "stream3": "https://spcdn.xyz/player/embed.php?data=d346256ad566cf97801e5cecc45a2557"
+    }
   }
 ]
