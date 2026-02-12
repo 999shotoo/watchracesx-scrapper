@@ -14493,5 +14493,27 @@
     "slug": "sao-paulo-eprix-formula-e-full-race-replay-december-6-2025",
     "thumbnailslug": "/_pu/12/15231600.png",
     "streamlinks": {}
+  },
+  {
+    "id": "0b98ead5-00a9-4be4-9c83-80ecf82fe9ff",
+    "title": "Bahrain Pre-Season 1st Test - Day 1 - F1 2026 - Full Race Replay February 11, 2026",
+    "link": "https://fullraces.com/bahrain-pre-season-1st-test-day-1-f1-2026-full-race-replay-february-11-2026",
+    "thumbnail": "https://fullraces.com/_pu/12/13755161.png",
+    "slug": "bahrain-pre-season-1st-test-day-1-f1-2026-full-race-replay-february-11-2026",
+    "thumbnailslug": "/_pu/12/13755161.png",
+    "streamlinks": {
+      "stream3": "https://spcdn.site/player/embed.php?data=3463ba87bdc01378649630ed94f57eef"
+    }
+  },
+  {
+    "id": "88c18144-8cdc-4606-b822-f23c5bc7eb6c",
+    "title": "Wrap Up Show - Bahrain Test One Day 1 - F1 2026 - Full Replay February 11, 2026",
+    "link": "https://fullraces.com/wrap-up-show-bahrain-test-one-day-one-f1-2026-full-replay-february-11-2026",
+    "thumbnail": "https://fullraces.com/_pu/12/72026698.png",
+    "slug": "wrap-up-show-bahrain-test-one-day-one-f1-2026-full-replay-february-11-2026",
+    "thumbnailslug": "/_pu/12/72026698.png",
+    "streamlinks": {
+      "stream3": "https://spcdn.site/player/embed.php?data=3463ba87bdc01378649630ed94f57eef"
+    }
   }
 ]
