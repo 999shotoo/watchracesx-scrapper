@@ -14615,5 +14615,23 @@
     "streamlinks": {
       "stream3": "https://spcdn.site/player/embed.php?data=13d8532225dea4fca8e0ebdfb27b83e4"
     }
+  },
+  {
+    "id": "d7763682-532c-4149-9854-0a6893207e4d",
+    "title": "WSBK Australia Race One & Two Full Race Replay - February 22, 2026 Superbike World Championship",
+    "link": "https://fullraces.com/wsbk-australia-race-one-two-full-race-replay-february-22-2026-superbike-world-championship",
+    "thumbnail": "https://fullraces.com/_pu/13/39894536.png",
+    "slug": "wsbk-australia-race-one-two-full-race-replay-february-22-2026-superbike-world-championship",
+    "thumbnailslug": "/_pu/13/39894536.png",
+    "streamlinks": {}
+  },
+  {
+    "id": "5e1f2bca-6f6d-4b67-8263-7552611b2997",
+    "title": "NASCAR Craftsman Truck Series: Fr8 Full Race Replay - February 21, 2026",
+    "link": "https://fullraces.com/nascar-craftsman-truck-series-fr8-full-race-replay-february-21-2026",
+    "thumbnail": "https://fullraces.com/_pu/13/81605217.png",
+    "slug": "nascar-craftsman-truck-series-fr8-full-race-replay-february-21-2026",
+    "thumbnailslug": "/_pu/13/81605217.png",
+    "streamlinks": {}
   }
 ]
