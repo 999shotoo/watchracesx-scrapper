@@ -14686,5 +14686,16 @@
     "streamlinks": {
       "stream3": "https://spcdn.site/player/embed.php?data=de56596363329673fab1b93be2210df7"
     }
+  },
+  {
+    "id": "82500368-139e-424e-8004-42073f661d7e",
+    "title": "MotoGP - RACE - Thai GP - March 1, 2026 Full Race Replay",
+    "link": "https://fullraces.com/motogp-race-thai-gp-march-1-2026-full-race-replay",
+    "thumbnail": "https://fullraces.com/_pu/13/38181603.png",
+    "slug": "motogp-race-thai-gp-march-1-2026-full-race-replay",
+    "thumbnailslug": "/_pu/13/38181603.png",
+    "streamlinks": {
+      "stream3": "https://spcdn.site/player/embed.php?data=be929a31e71b3acf2b3dd3b71c858614"
+    }
   }
 ]
