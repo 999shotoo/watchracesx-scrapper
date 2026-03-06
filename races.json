@@ -14735,5 +14735,14 @@
     "streamlinks": {
       "stream3": "https://spcdn.site/player/embed.php?data=e586a4f55fb43a540c2e9dab45e00f53"
     }
+  },
+  {
+    "id": "60de035c-7072-4566-82ca-ff758e57d81c",
+    "title": "Formula 3 Australian Grand Prix Full Race Replay 2026 F3 Championship",
+    "link": "https://fullraces.com/formula-3-australian-grand-prix-full-race-replay-2026-f3-championship",
+    "thumbnail": "https://fullraces.com/_pu/13/81572144.jpg",
+    "slug": "formula-3-australian-grand-prix-full-race-replay-2026-f3-championship",
+    "thumbnailslug": "/_pu/13/81572144.jpg",
+    "streamlinks": {}
   }
 ]
